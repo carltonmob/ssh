@@ -1,0 +1,4 @@
+cd  
+cd  resources
+del "setup.exe"
+close 
